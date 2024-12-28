@@ -53,7 +53,7 @@ Ensure that the include paths for these libraries are set up in your IDE or buil
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/ridayjana1/weather-app.git
 ```
 
 Or you can download the repository as a ZIP file and extract it.
